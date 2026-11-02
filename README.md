@@ -1,3 +1,18 @@
+# LAB Project Team Practicum
+Group 4: 
+
+ACHMAD MUQORROBIN (3002927614) 
+
+HANIF AHMAD NURMAAJID (2502080345) 
+
+BAYU AJI SETIAWAN (3002913546) 
+
+MUHAMMAD DAVID UBAIDILLAH (3002924751) 
+
+MUHAMMAD NAUFAL AL FADHIL (3002926731)
+
+
+
 # Literasi Nusantara Jaya
 ### Aplikasi Pemantauan Transaksi Toko Buku Berbasis Bahasa C
 
